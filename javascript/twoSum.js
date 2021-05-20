@@ -33,5 +33,5 @@ const twoSum = function(nums, target) {
 /* 
 Score
 Runtime: 80ms, faster than 56.53
-Memory Usage: 39.5, less than 12.99%
+Memory Usage: 39.5mb, less than 12.99%
 */
